@@ -1,0 +1,252 @@
+{
+    "biji": {
+        "goods": {
+            "goods_id": "456",
+            "id": "华硕自营",
+            "ip": "自营",
+            "IMG": "/static/images/biok01.jpg",
+            "title": "【趋势新品】Asus/华硕灵耀TP301新品intel i5高清手提电脑上网商务办公超极本触屏笔记本电脑二合一轻薄便携学生360度翻转大学生12GB 512GB定制款",
+            "price": 4090,
+            "express": "免运费",
+            "remain": "1000+",
+            "proNum": "1",
+            "url1": "/static/images/biij-06.jpg",
+            "url": "/static/images/biij-07.jpg",
+            "url2": "/static/images/biij-08.jpg",
+            "url3": "/static/images/biij-09.jpg",
+            "index": [
+                "/static/images/biji-01.jpg",
+                "/static/images/biji-02.jpg",
+                "/static/images/biji-03.jpg",
+                "/static/images/biji-04.jpg",
+                "/static/images/biji-05.jpg"
+            ]
+
+        }
+
+    },
+    "biji2": {
+        "goods": {
+            "goods_id": "457",
+            "id": "小米自营",
+            "ip": "自营",
+            "IMG": "/static/images/okji01.jpg",
+            "title": "（趋势新品）小米（MI）RedmiBook14锐龙版轻薄本搭载（ R5-3500U 8G 256GB）AMD处理器笔记本电脑预装Win10正版 手环疾速解锁 全新小米互传 银色",
+            "price": 79,
+            "proNum": "1",
+            "express": "免运费",
+            "remain": "999+",
+            "url1": "/static/images/biji2-06.jpg",
+            "url": "/static/images/biji2-07.jpg",
+            "url2": "/static/images/biji2-08.jpg",
+            "url3": "/static/images/biji2-09.jpg",
+            "index": [
+                "/static/images/biji2-01.jpg",
+                "/static/images/biji2-02.jpg",
+                "/static/images/biji2-03.jpg",
+                "/static/images/biji2-04.jpg",
+                "/static/images/biji2-05.jpg"
+            ]
+        }
+
+    },
+    "biji3": {
+        "goods": {
+            "goods_id": "458",
+            "id": "华硕自营",
+            "ip": "自营",
+            "IMG": "/static/images/hoj01.jpg",
+            "title": "华硕(ASUS)灵耀Deluxe14 14英寸微边全面屏超轻薄创意设计笔记本第八代英特尔®酷睿™i5(i5-8265U 8G512GB MX150-2G独显)冰钻银",
+            "price": 6623,
+            "proNum": "1",
+            "express": "免运费",
+            "remain": "999+",
+            "url1": "/static/images/biji3-06.jpg",
+            "url": "/static/images/biji3-07.jpg",
+            "url2": "/static/images/biji3-08.jpg",
+            "url3": "/static/images/biji3-09.jpg",
+            "index": [
+                "/static/images/biji3-01.jpg",
+                "/static/images/biji3-02.jpg",
+                "/static/images/biji3-03.jpg",
+                "/static/images/biji3-04.jpg",
+                "/static/images/biji3-05.jpg"
+            ]
+        }
+
+    },
+    "biji4": {
+        "goods": {
+            "goods_id": "459",
+            "id": "联想自营",
+            "ip": "自营",
+            "IMG": "/static/images/ock01.jpg",
+            "title": "联想(Lenovo)小新青春版 2019年新款 英特尔酷睿i3 14英寸轻薄本笔记本电脑(I3-8145U 4G 256GB+16G傲腾 )追梦银",
+            "price": 2399,
+            "proNum": "1",
+            "express": "免运费",
+            "remain": "999+",
+            "url1": "/static/images/biji4-06.jpg",
+            "url": "/static/images/biji4-07.jpg",
+            "url2": "/static/images/biji4-08.jpg",
+            "url3": "/static/images/biji4-09.jpg",
+            "index": [
+                "/static/images/biji4-01.jpg",
+                "/static/images/biji4-02.jpg",
+                "/static/images/biji4-03.jpg",
+                "/static/images/biji4-04.jpg",
+                "/static/images/biji4-05.jpg"
+            ]
+        }
+
+    },
+    "biji5": {
+        "goods": {
+            "goods_id": "460",
+            "id": "戴尔自营",
+            "ip": "自营",
+            "IMG": "/static/images/ock01.jpg",
+            "title": "戴尔（DELL）G3 3590-R1545BL 第九代英特尔®酷睿™i5 15.6英寸游戏本笔记本电脑（i5-9300H/8G内存/1TB+128GB/GTX 1650/4G独显）",
+            "price": 5699,
+            "proNum": "1",
+            "express": "免运费",
+            "remain": "999+",
+            "url1": "/static/images/biji5-06.jpg",
+            "url": "/static/images/biji5-07.jpg",
+            "url2": "/static/images/biji5-08.jpg",
+            "url3": "/static/images/biji5-09.jpg",
+            "index": [
+                "/static/images/biji5-01.jpg",
+                "/static/images/biji5-02.jpg",
+                "/static/images/biji5-03.jpg",
+                "/static/images/biji5-04.jpg",
+                "/static/images/biji5-05.jpg"
+            ]
+        }
+
+    },
+    "biji6": {
+        "goods": {
+            "goods_id": "461",
+            "id": "惠普自营",
+            "ip": "自营",
+            "IMG": "/static/images/ock02.jpg",
+            "title": "惠普(HP)星系列星14-ce3057TX 14英寸轻薄本笔记本电脑(i5-1035G7 8G 512SSD MX250 独显）",
+            "price": 5699,
+            "proNum": "1",
+            "express": "免运费",
+            "remain": "999+",
+            "url1": "/static/images/biji6-06.jpg",
+            "url": "/static/images/biji6-07.jpg",
+            "url2": "/static/images/biji6-08.jpg",
+            "url3": "/static/images/biji6-09.jpg",
+            "index": [
+                "/static/images/biji6-01.jpg",
+                "/static/images/biji6-02.jpg",
+                "/static/images/biji6-03.jpg",
+                "/static/images/biji6-04.jpg",
+                "/static/images/biji6-05.jpg"
+            ]
+        }
+
+    },
+    "phone": {
+        "goods": {
+            "goods_id": "462",
+            "id": "华为自营",
+            "ip": "自营",
+            "IMG": "/static/images/huawei10.jpg",
+            "title": "华为/荣耀（honor）9X 6GB+64GB 魅海蓝 移动联通电信4G全网通 麒麟810 4000mAh超强续航 4800万超清夜拍 6.59英寸升降全面屏手机",
+            "price": 1199,
+            "proNum": "1",
+            "express": "免运费",
+            "remain": "999+",
+            "url1": "/static/images/phone-06.jpg",
+            "url": "/static/images/phone-07.jpg",
+            "url2": "/static/images/phone-08.jpg",
+            "url3": "/static/images/phone-09.jpg",
+            "index": [
+                "/static/images/phone-01.jpg",
+                "/static/images/phone-02.jpg",
+                "/static/images/phone-03.jpg",
+                "/static/images/phone-04.jpg",
+                "/static/images/phone-05.jpg"
+            ]
+        }
+
+    },
+    "phone2": {
+        "goods": {
+            "goods_id": "463",
+            "id": "Apple自营",
+            "IMG": "/static/images/phone1.jpg",
+            "ip": "自营",
+            "title": "Apple iPhone 11 Pro Max 256G 暗夜绿色 移动联通电信4G全网通手机",
+            "price": 10099,
+            "proNum": "1",
+            "express": "免运费",
+            "remain": "999+",
+            "url1": "/static/images/phone2-06.jpg",
+            "url": "/static/images/phone2-07.jpg",
+            "url2": "/static/images/phone2-08.jpg",
+            "url3": "/static/images/phone2-09.jpg",
+            "index": [
+                "/static/images/phone2-01.jpg",
+                "/static/images/phone2-02.jpg",
+                "/static/images/phone2-03.jpg",
+                "/static/images/phone2-04.jpg",
+                "/static/images/phone2-05.jpg"
+            ]
+        }
+    },
+    "phone3": {
+        "goods": {
+            "goods_id": "464",
+            "id": "华为自营",
+            "ip": "自营",
+            "IMG": "/static/images/huaweimate30.jpg",
+            "title": "华为/HUAWEI Mate 30 5G 8GB+256GB 亮黑色 麒麟990智慧芯片 4000万徕卡摄像 OLED全面屏 移动联通电信5G全网通手机",
+            "price": 5499,
+            "proNum": "1",
+            "express": "免运费",
+            "remain": "999+",
+            "url1": "/static/images/phone3-06.jpg",
+            "url": "/static/images/phone3-07.jpg",
+            "url2": "/static/images/phone3-08.jpg",
+            "url3": "/static/images/phone3-09.jpg",
+            "index": [
+                "/static/images/phone3-01.jpg",
+                "/static/images/phone3-02.jpg",
+                "/static/images/phone3-03.jpg",
+                "/static/images/phone3-04.jpg",
+                "/static/images/phone3-05.jpg"
+            ]
+        }
+
+    },
+    "phone4": {
+        "goods": {
+            "goods_id": "465",
+            "id": "Apple自营",
+            "ip": "自营",
+            "IMG": "/static/images/iPhone X R.jpg",
+            "title": "Apple iPhone XR 128GB 黑色 移动联通电信4G全网通手机 双卡双待",
+            "price": 4999,
+            "proNum": "1",
+            "express": "免运费",
+            "remain": "999+",
+            "url1": "/static/images/phone4-06.jpg",
+            "url": "/static/images/phone4-07.jpg",
+            "url2": "/static/images/phone4-08.jpg",
+            "url3": "/static/images/phone4-09.jpg",
+            "index": [
+                "/static/images/phone4-01.jpg",
+                "/static/images/phone4-02.jpg",
+                "/static/images/phone4-03.jpg",
+                "/static/images/phone4-04.jpg",
+                "/static/images/phone4-05.jpg"
+            ]
+        }
+
+    }
+}

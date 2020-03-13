@@ -1,0 +1,335 @@
+{
+    "biji": {
+        "goods": {
+            "id": "华硕自营",
+            "ip": "自营",
+            "title": "【趋势新品】Asus/华硕灵耀TP301新品intel i5高清手提电脑上网商务办公超极本触屏笔记本电脑二合一轻薄便携学生360度翻转大学生12GB 512GB定制款",
+            "price": 409000,
+            "express": "免运费",
+            "remain": "1000+",
+            "url1": "/static/images/biij-06.jpg",
+            "url": "/static/images/biij-07.jpg",
+            "url2": "/static/images/biij-08.jpg",
+            "url3": "/static/images/biij-09.jpg",
+            "index": [
+                "/static/images/biji-01.jpg",
+                "/static/images/biji-02.jpg",
+                "/static/images/biji-03.jpg",
+                "/static/images/biji-04.jpg",
+                "/static/images/biji-05.jpg"
+            ],
+            "$$": "5499",
+            "IMG": "/static/images/biok01.jpg",
+            "goods_id": "456",
+            "vpre": "【趋势新品】Asus/华硕灵耀TP301新品intel i5高清手提电脑上网商务办公超极本触屏笔记本",
+            "k": "颜色",
+            "id6": "定制：1945 ",
+            "id2": "定制：1949",
+            "id3": "定制：1959",
+            "id4": "定制：1995",
+            "id5": "无",
+            "k_v": "选择版本",
+            "iv": "无",
+            "iv2": "定制：8G内存 512G固态",
+            "iv3": "定制：8G内存 512G固态",
+            "iv4": "定制：12G内存 256G固态"
+        }
+
+    },
+    "biji2": {
+        "goods": {
+            "id": "小米自营",
+            "ip": "自营",
+            "title": "（趋势新品）小米（MI）RedmiBook14锐龙版轻薄本搭载（ R5-3500U 8G 256GB）AMD处理器笔记本电脑预装Win10正版 手环疾速解锁 全新小米互传 银色",
+            "price": 7900,
+            "express": "免运费",
+            "remain": "999+",
+            "url1": "/static/images/biji2-06.jpg",
+            "url": "/static/images/biji2-07.jpg",
+            "url2": "/static/images/biji2-08.jpg",
+            "url3": "/static/images/biji2-09.jpg",
+            "index": [
+                "/static/images/biji2-01.jpg",
+                "/static/images/biji2-02.jpg",
+                "/static/images/biji2-03.jpg",
+                "/static/images/biji2-04.jpg",
+                "/static/images/biji2-05.jpg"
+            ],
+            "$$": "7900",
+            "IMG": "/static/images/okji01.jpg",
+            "goods_id": "457",
+            "vpre": "（趋势新品）小米（MI）RedmiBook14锐龙版轻薄本搭载",
+            "k": "颜色",
+            "id6": "时尚粉",
+            "id2": "12.5金色",
+            "id3": "热销爆款",
+            "id4": "新品银色",
+            "id5": "金典蓝",
+            "k_v": "选择版本",
+            "iv": "m3/128G",
+            "iv2": "R5/8G/256G ",
+            "iv3": "i5-10210U/512GB ",
+            "iv4": "i7-10510U/2G独显 "
+        }
+
+    },
+    "biji3": {
+        "goods": {
+            "id": "华硕自营",
+            "ip": "自营",
+            "title": "华硕(ASUS)灵耀Deluxe14 14英寸微边全面屏超轻薄创意设计笔记本第八代英特尔®酷睿™i5(i5-8265U 8G512GB MX150-2G独显)冰钻银",
+            "price": 662300,
+            "express": "免运费",
+            "remain": "999+",
+            "url1": "/static/images/biji3-06.jpg",
+            "url": "/static/images/biji3-07.jpg",
+            "url2": "/static/images/biji3-08.jpg",
+            "url3": "/static/images/biji3-09.jpg",
+            "index": [
+                "/static/images/biji3-01.jpg",
+                "/static/images/biji3-02.jpg",
+                "/static/images/biji3-03.jpg",
+                "/static/images/biji3-04.jpg",
+                "/static/images/biji3-05.jpg"
+            ],
+            "$$": "662300",
+            "IMG": "/static/images/hoj01.jpg",
+            "goods_id": "458",
+            "vpre": "（趋势新品）小米（MI）RedmiBook14锐龙版轻薄本搭载",
+            "k": "颜色",
+            "id6": "adol14 冰锐蓝",
+            "id2": "Deluxe14 蓝",
+            "id3": "Deluxe13 银",
+            "id4": "Deluxe15 傲腾灰",
+            "id5": "Deluxe15 青",
+            "k_v": "选择版本",
+            "iv": " i7 8G内存 512G固态",
+            "iv2": "i5 8G内存 512G固态 ",
+            "iv3": "i5 12G内存 256G固态 ",
+            "iv4": "i5-1T/4G独显 "
+        }
+
+    },
+    "biji4": {
+        "goods": {
+            "id": "联想自营",
+            "ip": "自营",
+            "title": "联想(Lenovo)小新青春版 2019年新款 英特尔酷睿i3 14英寸轻薄本笔记本电脑(I3-8145U 4G 256GB+16G傲腾 )追梦银",
+            "price": 239900,
+            "express": "免运费",
+            "remain": "999+",
+            "url1": "/static/images/biji4-06.jpg",
+            "url": "/static/images/biji4-07.jpg",
+            "url2": "/static/images/biji4-08.jpg",
+            "url3": "/static/images/biji4-09.jpg",
+            "index": [
+                "/static/images/biji4-01.jpg",
+                "/static/images/biji4-02.jpg",
+                "/static/images/biji4-03.jpg",
+                "/static/images/biji4-04.jpg",
+                "/static/images/biji4-05.jpg"
+            ],
+            "$$": "239900",
+            "IMG": "/static/images/hoj01.jpg",
+            "goods_id": "459",
+            "vpre": "联想(Lenovo)小新青春版 2019年新款 英特尔酷睿i3 14英寸轻薄本笔记本电脑(",
+            "k": "颜色",
+            "id6": "小新青春版 无畏黑",
+            "id2": "Deluxe14 深ko灰",
+            "id3": "Air13 银",
+            "id4": "Deluxe15 傲腾灰",
+            "id5": "340C 傲腾",
+            "k_v": "选择版本",
+            "iv": " i5 8G内存 512G固态",
+            "iv2": "i7 8G内存 512G固态 ",
+            "iv3": "i5 12G内存 256G固态",
+            "iv4": "i7 8G内存 512G固态 "
+        }
+
+    },
+    "biji5": {
+        "goods": {
+            "id": "戴尔自营",
+            "ip": "自营",
+            "title": "戴尔（DELL）G3 3590-R1545BL 第九代英特尔®酷睿™i5 15.6英寸游戏本笔记本电脑（i5-9300H/8G内存/1TB+128GB/GTX 1650/4G独显）",
+            "price": 569900,
+            "express": "免运费",
+            "remain": "999+",
+            "url1": "/static/images/biji5-06.jpg",
+            "url": "/static/images/biji5-07.jpg",
+            "url2": "/static/images/biji5-08.jpg",
+            "url3": "/static/images/biji5-09.jpg",
+            "index": [
+                "/static/images/biji5-01.jpg",
+                "/static/images/biji5-02.jpg",
+                "/static/images/biji5-03.jpg",
+                "/static/images/biji5-04.jpg",
+                "/static/images/biji5-05.jpg"
+            ],
+            "$$": "7900",
+            "IMG": "/static/images/okji01.jpg",
+            "goods_id": "460",
+            "vpre": "（趋势新品）小米（MI）RedmiBook14锐龙版轻薄本搭载",
+            "k": "颜色",
+            "id6": "时尚粉",
+            "id2": "12.5金色",
+            "id3": "热销爆款",
+            "id4": "新品银色",
+            "id5": "金典蓝",
+            "k_v": "选择版本",
+            "iv": "m3/128G",
+            "iv2": "R5/8G/256G ",
+            "iv3": "i5-10210U/512GB ",
+            "iv4": "i7-10510U/2G独显 "
+        }
+
+    },
+    "biji6": {
+        "goods": {
+            "id": "惠普自营",
+            "ip": "自营",
+            "title": "惠普(HP)星系列星14-ce3057TX 14英寸轻薄本笔记本电脑(i5-1035G7 8G 512SSD MX250 独显）",
+            "price": 569900,
+            "express": "免运费",
+            "remain": "999+",
+            "url1": "/static/images/biji6-06.jpg",
+            "url": "/static/images/biji6-07.jpg",
+            "url2": "/static/images/biji6-08.jpg",
+            "url3": "/static/images/biji6-09.jpg",
+            "index": [
+                "/static/images/biji6-01.jpg",
+                "/static/images/biji6-02.jpg",
+                "/static/images/biji6-03.jpg",
+                "/static/images/biji6-04.jpg",
+                "/static/images/biji6-05.jpg"
+            ],
+            "$$": "5499",
+            "IMG": "/static/images/biok01.jpg",
+            "goods_id": "461",
+            "vpre": "【趋势新品】Asus/华硕灵耀TP301新品intel i5高清手提电脑上网商务办公超极本触屏笔记本",
+            "k": "颜色",
+            "id6": "定制：1945 ",
+            "id2": "定制：1949",
+            "id3": "定制：1959",
+            "id4": "定制：1995",
+            "id5": "无",
+            "k_v": "选择版本",
+            "iv": "无",
+            "iv2": "定制：8G内存 512G固态",
+            "iv3": "定制：8G内存 512G固态",
+            "iv4": "定制：12G内存 256G固态"
+        }
+
+    },
+    "phone": {
+        "goods": {
+            "id": "华为自营",
+            "ip": "自营",
+            "title": "华为/荣耀（honor）9X 6GB+64GB 魅海蓝 移动联通电信4G全网通 麒麟810 4000mAh超强续航 4800万超清夜拍 6.59英寸升降全面屏手机",
+            "price": 129900,
+            "express": "免运费",
+            "remain": "999+",
+            "url1": "/static/images/phone-06.jpg",
+            "url": "/static/images/phone-07.jpg",
+            "url2": "/static/images/phone-08.jpg",
+            "url3": "/static/images/phone-09.jpg",
+            "index": [
+                "/static/images/phone-01.jpg",
+                "/static/images/phone-02.jpg",
+                "/static/images/phone-03.jpg",
+                "/static/images/phone-04.jpg",
+                "/static/images/phone-05.jpg"
+            ],
+            "$$": "7900",
+            "IMG": "/static/images/phone1.jpg",
+            "goods_id": "462",
+            "vpre": "Apple iPhone 11 Pro Max  暗夜绿色 移动联通电信4G全网通手机",
+            "k": "颜色",
+            "id6": "暗夜绿色",
+            "id2": "金色",
+            "id3": "深空灰色",
+            "id4": "银色",
+            "id5": "金典蓝",
+            "k_v": "选择版本",
+            "iv": "64G",
+            "iv2": "256G ",
+            "iv3": "512G",
+            "iv4": "128G"
+        }
+
+    },
+    "phone2": {
+        "goods": {
+            "id": "Apple自营",
+            "ip": "自营",
+            "title": "Apple iPhone 11 Pro Max 256G 暗夜绿色 移动联通电信4G全网通手机",
+            "price": 1009900,
+            "express": "免运费",
+            "remain": "999+",
+            "url1": "/static/images/phone2-06.jpg",
+            "url": "/static/images/phone2-07.jpg",
+            "url2": "/static/images/phone2-08.jpg",
+            "url3": "/static/images/phone2-09.jpg",
+            "index": [
+                "/static/images/phone2-01.jpg",
+                "/static/images/phone2-02.jpg",
+                "/static/images/phone2-03.jpg",
+                "/static/images/phone2-04.jpg",
+                "/static/images/phone2-05.jpg"
+            ],
+            "$$": "7900",
+            "IMG": "/static/images/phone1.jpg",
+            "goods_id": "463",
+            "vpre": "Apple iPhone 11 Pro Max  暗夜绿色 移动联通电信4G全网通手机",
+            "k": "颜色",
+            "id6": "暗夜绿色",
+            "id2": "金色",
+            "id3": "深空灰色",
+            "id4": "银色",
+            "id5": "金典蓝",
+            "k_v": "选择版本",
+            "iv": "64G",
+            "iv2": "256G ",
+            "iv3": "512G",
+            "iv4": "128G"
+        }
+
+    },
+    "phone3": {
+        "goods": {
+            "id": "华为自营",
+            "ip": "自营",
+            "title": "华为/HUAWEI Mate 30 5G 8GB+256GB 亮黑色 麒麟990智慧芯片 4000万徕卡摄像 OLED全面屏 移动联通电信5G全网通手机",
+            "price": 549900,
+            "express": "免运费",
+            "remain": "999+",
+            "url1": "/static/images/phone3-06.jpg",
+            "url": "/static/images/phone3-07.jpg",
+            "url2": "/static/images/phone3-08.jpg",
+            "url3": "/static/images/phone3-09.jpg",
+            "index": [
+                "/static/images/phone3-01.jpg",
+                "/static/images/phone3-02.jpg",
+                "/static/images/phone3-03.jpg",
+                "/static/images/phone3-04.jpg",
+                "/static/images/phone3-05.jpg"
+            ],
+            "$$": "7900",
+            "IMG": "/static/images/phone1.jpg",
+            "goods_id": "464",
+            "vpre": "Apple iPhone 11 Pro Max  暗夜绿色 移动联通电信4G全网通手机",
+            "k": "颜色",
+            "id6": "暗夜绿色",
+            "id2": "金色",
+            "id3": "深空灰色",
+            "id4": "银色",
+            "id5": "金典蓝",
+            "k_v": "选择版本",
+            "iv": "64G",
+            "iv2": "256G ",
+            "iv3": "512G",
+            "iv4": "128G"
+        }
+
+    }
+}
